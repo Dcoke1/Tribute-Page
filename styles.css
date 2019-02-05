@@ -1,0 +1,38 @@
+#main {
+  background: #f8f8ff;
+  margin: auto;
+}
+
+#container {
+  background: #f5f5f5;
+  width: 95%;
+  margin: auto;
+}
+
+#img-div {
+  width: 95%;
+  margin: auto;
+}
+#img {
+  border: 2px solid;
+  border-radius: 20px 20px 20px 20px;
+  -moz-border-radius: 20px 20px 20px 20px;
+  -webkit-border-radius: 20px 20px 20px 20px;
+  border: 3px solid #993399;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  text-align: center;
+}
+
+#footer1 {
+  color: #993399;
+}
+h5:hover {
+  transform: scale(2.1);
+}
+
