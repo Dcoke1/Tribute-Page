@@ -9,6 +9,11 @@
   width: 95%;
   margin: auto;
 }
+/** Title sizing **/
+#title {
+  width: 80%;
+  height: auto;
+}
 
 /** Image Style **/
 
